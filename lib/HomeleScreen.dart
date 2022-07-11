@@ -27,7 +27,7 @@ class home extends StatelessWidget {
                 Container(
                   padding: EdgeInsetsDirectional.all(10),
                   child: Text(
-                    "dashbord",
+                    "dashboard",
                     style: TextStyle(
                         color: Color.fromARGB(255, 0, 0, 0),
                         fontSize: 35,
